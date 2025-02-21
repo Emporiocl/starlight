@@ -1,4 +1,4 @@
-# Starlight Starter Kit: Basics
+# Amarillo.cl
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
 
